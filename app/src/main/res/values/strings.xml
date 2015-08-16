@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Efilx</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+
+    <string name="button_text">Play Video</string>
+    <string name="default_video_error">Error playing video</string>
+    <string name="default_video_error_title">Error</string>
+    <string name="default_negative_button">Close</string>
+    <string name="loading_txt">Loading......</string>
+    <string name="downloading_schedule_error">No Data Found</string>
+
+
+    <!-- Twitter Configurations -->
+    <string name="twitter_callback">http://javatechig.android.app</string>
+    <string name="twitter_consumer_key">vM5RNi5CCodJnL7e5BOA</string>
+    <string name="twitter_consumer_secret">FQNS0eBbM8J5DDjDglLCwOvAUUesYhN5uFxdxjKLgk</string>
+    <string name="twitter_oauth_verifier">oauth_verifier</string>
+    <!-- End Configurations -->
+
+
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello, </string>
+    <string name="login_instructions">Login to twiter</string>
+    <string name="share_instructions">Enter share message</string>
+    <string name="btn_login">Login to Twitter</string>
+    <string name="btn_share">Share</string>
+</resources>
